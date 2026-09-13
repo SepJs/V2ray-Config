@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@web.trostshield.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=web.trostshield.online&fp=chrome&pbk=SS5Nk4gD_83elglPySi5XS9wNZWqaMjpnJAs5_Ggpzk&sid=3de4c717d2103ffe&allowinsecure=0&type=tcp&headerType=none#@configprxy
 vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&security=reality&sid=eb0cca7312345678&sni=eh.vk.com&type=tcp#🇩🇪139843 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b135a1e0-ebdb-4d46-b3fa-bd1e78580244@57.129.52.47:52014?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#☸️19@oneclickvpnkeys
 vless://b19b768d-bc57-4d03-9bea-61129ed5fef9@162.159.46.0:8880?encryption=none&security=none&type=ws&host=new.106-79e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#t.me/ConfigFori  -  Config 88288
@@ -503,3 +502,4 @@ vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@199.232.78.150:443?encryption=none&
 vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@199.232.78.155:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=tls&sni=+global.fastly.com&type=xhttp&x_padding_bytes=100-1000#Xhttp-15
 vless://caf0d393-101a-4ac6-81e4-172fd8f87f5b@zmaoz.faculty.ucdavis.edu:80?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Vistitrohamfastvipnexttt.net&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Xhttp-15
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=178.105.61.61&fp=chrome&security=reality&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&packetEncoding=xudp#咕
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&type=tcp&security=reality&headerType=none&sni=178.105.61.61&fp=chrome&insecure=1&allowInsecure=1&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&spx=/&flow=xtls-rprx-vision#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪

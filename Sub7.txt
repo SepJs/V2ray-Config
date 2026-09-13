@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#@VConfing
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#@V2ray_Alpha🐍 14
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#@meliproxyy
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#vpnsal
@@ -503,3 +502,4 @@ vless://5a829c25-3056-4717-9ecd-a00a4bae823a@2.cdnpros.ir:7200?path=/&security=n
 vless://5a829c25-3056-4717-9ecd-a00a4bae823a@2.cdnpros.ir:7200?path=/&security=none&encryption=none&host=api.dropboxapi.com&type=httpupgrade#کانال ما
 vless://5a829c25-3056-4717-9ecd-a00a4bae823a@2.cdnpros.ir:7200?path=/&security=none&encryption=none&host=api.dropboxapi.com&type=httpupgrade#🇩🇪170745 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5a829c25-3056-4717-9ecd-a00a4bae823a@2.cdnpros.ir:7200?path=/&security=none&encryption=none&host=api.dropboxapi.com&type=httpupgrade#🇩🇪DE-🚀@VPNine1
+vless://5a829c25-3056-4717-9ecd-a00a4bae823a@3.cdnpros.ir:4055?security=reality&encryption=none&pbk=H4CGZ7Ww5jslyTzgTdlR6zeyNoU5JSqiQ3pDR_JvyGw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dynu.com&sid=f7273ebb60699af8#@filembad
