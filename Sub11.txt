@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegram:@Free_VPN_CH@45.91.171.146:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@46.202.30.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
-vless://Telegram:@Free_VPN_CH@62.182.192.35:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@72.167.243.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -503,3 +498,8 @@ vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?security=r
 vless://bb681249-1823-4bc0-9778-883bf5bd0b1f@www.web.far30bazi.ir:443?security=reality&encryption=none&pbk=6yOrgIsMRfTe-Gr9TYgyan-0mnKTNfk6fDBxVOiT4HM&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=5002b5329814b487#@V2rayng_Fast 🇮🇹
 vless://bb721a70-68ac-4fcf-89b1-0b0f85e5a6e6@95.111.208.18:443?security=reality&encryption=none&pbk=3uS936EU48fXb2sIN-scwGtWmrPp6ZhS1SL1iy8-rnk&headerType=none&fp=chrome&spx=/135a9559f851171&type=tcp&sni=fr-ca.rogers.yahoo.com&sid=ecf9#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.152.23:443?path=/2?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#Arshiavpn12
+vless://bba42dd4-b9fe-0903-2345-8c75399f5ac8@69.46.46.125:443?path=/ws/bba42dd4-b9fe-0903-2345-8c75399f5ac8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/fp=chromefp=chrome#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
