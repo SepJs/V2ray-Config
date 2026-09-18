@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.5:443?path=/&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=xhttp&sni=www.sony.com#🇺🇦174102 | ⚡️Telegram = t.me/SOSkeyNET
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?encryption=none&security=tls&sni=fra-04.hello-there.ru&type=xhttp&host=fra-04.hello-there.ru&path=/xh&mode=auto#@Daily_Configs
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?encryption=none&security=tls&sni=fra-04.hello-there.ru&type=xhttp&host=fra-04.hello-there.ru&path=/xh&mode=auto#@proxy_kafee
 vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#@vasl_bashim
 vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#kurdconfig
 vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#🇫🇷@FreakConfig
@@ -503,3 +500,6 @@ vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&secur
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_market_1378_bot
+vless://88da065a-f709-4bbb-bdef-6c0b39371f09@abb.fars-remen.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.l3mvTzzaVMf4WsI2Esh3pPbQhYkB9CpYdSdBGsVsD0g&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray313 کانالمون 💚
+vless://88f5e38e-5799-4610-8b17-3eb4f4ced616@23.235.33.98:80?encryption=none&security=none&type=xhttp&host=n-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&path=/fast&mode=auto&extra={"xPaddingBytes":"100-1000"}#@Daily_Configs
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/755276b33b6f&encryption=none&type=ws#🇺🇿 Join+Telegram:@Farah_VPN 🇺🇿

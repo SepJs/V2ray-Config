@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.37.78:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.91.196:22222?encryption=none&security=none&type=tcp#V2ray_confiig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.10.114:22222?Telegram=@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless,@MyVless&encryption=none&security=none&type=tcp#@MyVless
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.10.114:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.10.114:22222?encryption=none&security=none&type=tcp#[ 🇬🇧 ] | @Cfox_SerVer
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.10.114:22222?encryption=none&security=none&type=tcp#🇬🇧174099 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +500,6 @@ vless://f1dcdda0-b2d2-4e18-88e2-c87c9257128e@38.244.21.139:443/?type=tcp&encrypt
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@1.spotify24.ir:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Free x231 @Outline_Vpn
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@11.foodtry.ir:2083?security=reality&encryption=none&pbk=k2FIq2XySl4OHuWDoD9hHfCwZWp4XDU33ewPeBywxUY&headerType=none&fp=chrome&spx=/&type=tcp&sni=play-apps-features.googleusercontent.com&sid=14d97b93cc1650f1#Free x236 @Outline_Vpn
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.spotify24.ir:5399?security=reality&encryption=none&pbk=QIeY9TjjtwN2mnnH-VLmOcXY5eZ2m1g5FCQURQ5aGwQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=fd21f182c397c023#Free x237 @Outline_Vpn
+vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@2.trialkade.ir:443?security=reality&encryption=none&pbk=AOt89Lj5xZ4Y0OsVT3HUlajl8iUiOHrd3yJ0WVvHzGw&host=play-apps-features.googleusercontent.com&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=2f1b68592eb55247#Free x238 @Outline_Vpn
+vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@3.sharsna51.ir:443?security=reality&encryption=none&pbk=Z-D9uKkjSZVkoIb_5w2ZxQCnbiy8D2rb3UrjH0CD9jQ&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=7b36b9b28afece6f#Free x232 @Outline_Vpn
+vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@7.ala71.ir:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Free x230 @Outline_Vpn

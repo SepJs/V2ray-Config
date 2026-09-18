@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#📡 @ConfigV2RayNG
-vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#@V2ray_Alpha🎪 9
-vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#@V2ray_Alpha💈 8
 vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#@meliproxyy
 vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#Free x320 @Outline_Vpn
 vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#Free x327 @Outline_Vpn
@@ -503,3 +500,6 @@ vless://38d9aa32-f728-489d-84f9-0e9a76970ce1@157.180.94.33:8880?type=grpc&servic
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#🇮🇷 IR
 vless://38df5518-26c5-449b-98d9-a4f456f5f689@tun.temas-bor.ir:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@v2rayng3
 vless://39036971-c66f-423d-b304-caf61016c1df@185.212.49.141:443?encryption=none&security=reality&type=xhttp&headerType=none&path=/NXRFqdfT74wvTrhjneowm8H2oeGhcq?ed=2560&mode=stream-up&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000","uplinkChunkSize":"0"}&sni=www.aparat.com&fp=chrome&pbk=LeoX--ZpuXko-hvIYwsWm-fKHAkxpw4qe_jKJjQbB18&sid=dbdfe84828a608#🇮🇷139880 | ⚡️Telegram = t.me/SOSkeyNET
+vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#🇬🇧 | 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
