@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107  حجم: 50
 vless://0aec6598-7fb5-44e6-bff7-a4d550117830@104.234.135.88:443?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&type=xhttp#@TanhaNet🌐
 vless://0afdefa1-d92b-485f-931f-6038ec19ceed@66.33.22.245:28965?encryption=none&host=&path=/&security=none&type=ws#🇺🇸US-🚀@VPNine1
 vless://0afdefa1-d92b-485f-931f-6038ec19ceed@66.33.22.245:28965?path=/&security=none&encryption=none&type=ws#@filembad
@@ -502,4 +503,3 @@ vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security
 vless://1e001568-66ec-4027-bab9-ae1b476fe87d@serr-arnrr-5.blook.democrat:443?mode=stream-one&path=/VLSpdG9k&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":"16-32","hMaxRequestTimes":"600-900","hMaxReusableSecs":"300-900","maxConcurrency":"1-2"}}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=serr-arnrr-5.blook.democrat#198
 vless://1e358d6d-5232-4f83-9979-fc880a90e54c@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://1e358d6d-5232-4f83-9979-fc880a90e54c@Digikala.soft98.horlutr.ir:1280?path=/&security=&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#@v2ray313 کانالمون 😘
-vless://1e358d6d-5232-4f83-9979-fc880a90e54c@fnd9f.artamireo.ir:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray313 کانالمون 🤔
