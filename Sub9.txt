@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8443?security=reality&fp=chrome&mode=auto&sni=www.sony.com.hk&pbk=j6s71Y93SiWpKalWmjr-CB-fnxDIj0h7Wkc7Fu2izio&sid=1de760&type=xhttp&host=italic.dearhossein-taktaz.ir&extra={"mode":"auto","xPaddingBytes":"100-1000"}&spx=/41f8f15aa1ac0aa&encryption=none&path=/#none
+vless://840bd8fb-7384-40b8-b119-04dff1537064@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#@NETMelliAnti
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=chrome&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 S2 | @ELiV2Ray
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=chrome&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 S3 | @ELiV2Ray
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.66.34:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=chrome&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 S1 | @ELiV2Ray
@@ -501,5 +503,3 @@ vless://Default@69.46.46.117:443?path=/ws/vless/Default?ed=2048&security=tls&alp
 vless://Default@69.46.46.121:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-de5d.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-de5d.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://Default@69.46.46.122:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-e0f2.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-e0f2.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://Default@69.46.46.41:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-de24.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-de24.up.railway.app#⁴🇩🇪 @V2ngFast
-vless://Default@69.46.46.43:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-4681.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-4681.up.railway.app#1 🇺🇸 @V2ngNet
-vless://Default@69.46.46.43:443?path=/ws/vless/Default?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=ezaccess1-slv-ezaccess1-54fc.up.railway.app&fp=chrome&type=ws&sni=ezaccess1-slv-ezaccess1-54fc.up.railway.app#1 🇺🇸 @V2ngNet
